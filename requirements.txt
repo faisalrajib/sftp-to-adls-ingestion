@@ -1,0 +1,4 @@
+paramiko
+azure-identity
+azure-storage-file-datalake
+python-dotenv
