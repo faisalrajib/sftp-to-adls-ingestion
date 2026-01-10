@@ -18,8 +18,6 @@ python src/main.py
 ```
 # sftp-to-adls-ingestion
 
-# sftp-to-adls-ingestion
-
 
 
 
