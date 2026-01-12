@@ -19,7 +19,15 @@ cp .env.example .env
 az login
 python src/main.py
 ```
-# sftp-to-adls-ingestion
+## Development Environment
+
+This project includes a Dev Container configuration.
+
+You can open it instantly using:
+- VS Code + Dev Containers extension
+- GitHub Codespaces
+
+This provides a fully configured Python environment with all dependencies pre-installed.
 
 
 
